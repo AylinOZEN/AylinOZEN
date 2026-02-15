@@ -30,7 +30,7 @@ M.A.K.Ü. Zeliha Tolunay Bilişim Sistemleri ve Teknolojileri 3. sınıf öğren
 ### 🚀 Öne Çıkan Çalışmalarım
 
 - **[Python] Algoritma ve Karar Yapıları:** [AylinOZEN/python-alistirmalar](https://github.com/AylinOZEN/python-alistirmalar) (Python temel mantığı ve algoritmik çözümler).
-- **[Flutter] Mobil Uygulama Çalışmaları:** *(Yakında! Flutter ile geliştirdiğim ilk mobil arayüzleri ve projeleri burada paylaşacağım.)*
+- **[Flutter] Mobil Uygulama Çalışmaları:** [AylinOZEN/Flutter-Gelisim-Gunlugum](https://github.com/AylinOZEN/Flutter-Gelisim-Gunlugum)
 
 ---
 
