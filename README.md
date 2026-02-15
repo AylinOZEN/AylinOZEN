@@ -1,4 +1,4 @@
-# Merhaba, Ben Aylin ÖZEN 👋
+# Merhaba, Ben Aylin ÖZEN 
 
 M.A.K.Ü. Zeliha Tolunay Bilişim Sistemleri ve Teknolojileri 3. sınıf öğrencisiyim. Kariyerimi iki ana dal üzerinde paralel olarak ilerletmeye odaklanmış bir geliştirici adayıyım: **Mobil Uygulama Geliştirme (Flutter)** ve **Yapay Zeka (Python).**
 
@@ -6,7 +6,7 @@ M.A.K.Ü. Zeliha Tolunay Bilişim Sistemleri ve Teknolojileri 3. sınıf öğren
 
 ---
 
-### 🎓 Akademik Odak ve Hedefler
+###  Akademik Odak ve Hedefler
 
 | Alan | Detay |
 | :--- | :--- |
@@ -17,7 +17,7 @@ M.A.K.Ü. Zeliha Tolunay Bilişim Sistemleri ve Teknolojileri 3. sınıf öğren
 
 ---
 
-### 💻 Teknik Yetkinlik Alanlarım
+###  Teknik Yetkinlik Alanlarım
 
 Öğrenme sürecimi projelerle destekliyor ve gelişimimi GitHub üzerinden belgeliyorum:
 
@@ -27,14 +27,14 @@ M.A.K.Ü. Zeliha Tolunay Bilişim Sistemleri ve Teknolojileri 3. sınıf öğren
 
 ---
 
-### 🚀 Öne Çıkan Çalışmalarım
+###  Öne Çıkan Çalışmalarım
 
 - **[Python] Algoritma ve Karar Yapıları:** [AylinOZEN/python-alistirmalar](https://github.com/AylinOZEN/python-alistirmalar) (Python temel mantığı ve algoritmik çözümler).
 - **[Flutter] Mobil Uygulama Çalışmaları:** [AylinOZEN/Flutter-Gelisim-Gunlugum](https://github.com/AylinOZEN/Flutter-Gelisim-Gunlugum)
 
 ---
 
-### 🌐 İletişim
+###  İletişim
 
 * **LinkedIn:** [linkedin.com/in/aylinozen](https://www.linkedin.com/in/aylinozen)
 * **GitHub:** [github.com/AylinOZEN](https://github.com/AylinOZEN)
